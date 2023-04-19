@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name         Geoguessr Time Played
+// @description  Total time played geoguessr
+// @version      1
+// @author       Nayvy#1363
+// @license      MIT
+// @match        https://www.geoguessr.com/*
+// @require      https://code.jquery.com/jquery-3.6.0.min.js
+// @require      file://C:\Users\Joshua Nagy\Documents\Code\GeoguessrScript\GeoguessrScript\userscript.js
+// @run-at       document-start
+// @icon         https://www.google.com/s2/favicons?domain=geoguessr.com
+// @grant        GM_xmlhttpRequest
+// ==/UserScript==
